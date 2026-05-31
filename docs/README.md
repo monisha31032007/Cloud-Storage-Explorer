@@ -1,27 +1,38 @@
-# Cloud Storage Explorer Documentation
+# Cloud Storage Explorer
 
-## Project Overview
+## Introduction
 
-Cloud Storage Explorer is a cloud-based application that allows users to upload, manage, view, and organize files stored in cloud storage.
+Cloud Storage Explorer is a basic cloud computing project that demonstrates how files can be stored, managed, and accessed using cloud storage services.
 
 ## Objectives
 
-* Store files securely in the cloud
-* Upload and download files
-* Manage cloud storage resources
-* Improve accessibility and scalability
+* Learn cloud storage concepts
+* Upload files to cloud storage
+* View stored files
+* Download files from cloud storage
+* Understand scalability and accessibility
 
 ## Technologies Used
 
-* Google Cloud Storage
 * GitHub
-* Cloud Shell
-* REST APIs
+* Cloud Storage Service
+* Web Browser
 
 ## Features
 
 * File Upload
 * File Download
-* File Listing
+* File Viewing
 * File Management
-* Secure Storage
+
+## Advantages
+
+* Secure storage
+* Easy accessibility
+* Cost effective
+* Scalable solution
+
+## Conclusion
+
+This project demonstrates the basic working of cloud storage and file management using cloud computing technologies.
+
