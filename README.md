@@ -39,3 +39,26 @@ Cloud-Storage-Explorer
 │   └── architecture-diagram.png
 └── screenshots
     └── README.md
+
+## Documentation
+
+- Project Report: docs/src/Project-Report.md
+- Technical Documentation: docs/src/README.md
+
+## Architecture Diagram
+
+![Architecture Diagram](images/architecture-diagram.png)
+
+## Screenshots
+
+### Repository Overview
+
+![Repository](screenshots/repository-home.png)
+
+### Project Report
+
+![Project Report](screenshots/project-report.png)
+
+### Architecture Diagram
+
+![Architecture Diagram](screenshots/architecture-diagram-view.png)
