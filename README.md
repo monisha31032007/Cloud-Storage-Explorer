@@ -39,6 +39,7 @@ Cloud-Storage-Explorer
 │   └── architecture-diagram.png
 └── screenshots
     └── README.md
+```
 
 ## Documentation
 
