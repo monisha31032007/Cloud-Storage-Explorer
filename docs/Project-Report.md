@@ -21,6 +21,22 @@ Cloud storage allows users to store and access files through the internet.
 - File Download
 - File Viewing
 
+## System Architecture
+
+The Cloud Storage Explorer system consists of three main components:
+
+1. User – Initiates file operations.
+2. Web Browser – Provides the interface for accessing cloud storage.
+3. Cloud Storage – Stores and manages files.
+
+The system supports the following operations:
+
+- Upload File
+- View File
+- Download File
+
+The architecture diagram is available in the images folder.
+
 ## Conclusion
 
 This project demonstrates basic cloud storage operations.
