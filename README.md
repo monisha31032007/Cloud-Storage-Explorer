@@ -47,7 +47,7 @@ Cloud-Storage-Explorer
 
 ## Architecture Diagram
 
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](screenshots/architecture-dia.png)
 
 ## Screenshots
 
