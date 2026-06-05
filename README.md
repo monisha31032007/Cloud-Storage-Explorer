@@ -1,5 +1,15 @@
 # Cloud Storage Explorer
 
+## Intern Information
+
+**Name:** Monisha S  
+**Intern ID:** CITS2080  
+**Domain:** Cloud Computing  
+
+## Overview
+
+Cloud Storage Explorer is a cloud computing project that demonstrates the management of cloud storage resources. The project focuses on storing, organizing, retrieving, and managing files in a cloud environment while understanding the fundamentals of cloud-based storage services.
+
 ## Introduction
 
 Cloud Storage Explorer is a basic cloud computing project that demonstrates how files can be stored, managed, and accessed using cloud storage services.
